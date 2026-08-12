@@ -5,7 +5,7 @@
 
 ### 🖥️ Uma aplicação desktop desenvolvida em Python + CustomTkinter
 
-<img src="./assets/internet-cafe/01-dashboard-computadores.png" width="95%" alt="Dashboard do CyberCafe">
+<img src="./cibercafé/internet-cafe/01-dashboard-computadores.png" width="95%" alt="Dashboard do CyberCafe">
 
 </div>
 
@@ -40,7 +40,7 @@ O dashboard apresenta os computadores cadastrados em **cards individuais**, perm
 
 Também existe uma área específica para cadastrar novos computadores e visualizar as máquinas cadastradas.
 
-<img src="./assets/internet-cafe/05-novas-maquinas.png" width="95%" alt="Cadastro e gerenciamento de computadores">
+<img src="./cibercafé/internet-cafe/05-novas-maquinas.png" width="95%" alt="Cadastro e gerenciamento de computadores">
 
 ---
 
@@ -66,7 +66,7 @@ O sistema possui uma área dedicada à **fila de espera**, onde o operador pode:
 - Adicionar o cliente à fila
 - Acompanhar os clientes aguardando atendimento
 
-<img src="./assets/internet-cafe/02-fila-de-espera.png" width="95%" alt="Fila de espera do CyberCafe">
+<img src="./cibercafé/internet-cafe/02-fila-de-espera.png" width="95%" alt="Fila de espera do CyberCafe">
 
 ---
 
@@ -84,7 +84,7 @@ Produtos demonstrados no sistema:
 | ☕ Café Expresso | R$ 4,50 |
 | 🍫 Chocolate | R$ 5,00 |
 
-<img src="./assets/internet-cafe/03-snack-bar.png" width="95%" alt="Snack Bar do CyberCafe">
+<img src="./cibercafé/internet-cafe/03-snack-bar.png" width="95%" alt="Snack Bar do CyberCafe">
 
 ---
 
@@ -96,7 +96,7 @@ Também existe integração conceitual entre:
 
 **Sessão do PC → consumo → pagamento → histórico financeiro**
 
-<img src="./assets/internet-cafe/04-financeiro.png" width="95%" alt="Histórico financeiro do CyberCafe">
+<img src="./cibercafé/internet-cafe/04-financeiro.png" width="95%" alt="Histórico financeiro do CyberCafe">
 
 ---
 
@@ -120,7 +120,7 @@ O sistema possui uma área de configurações que permite alterar:
 - Cor de destaque dos botões
 - Valor padrão cobrado por hora
 
-<img src="./assets/internet-cafe/06-configuracoes.png" width="95%" alt="Configurações do CyberCafe">
+<img src="./cibercafé/internet-cafe/06-configuracoes.png" width="95%" alt="Configurações do CyberCafe">
 
 ---
 
@@ -206,27 +206,27 @@ Abaixo estão registros reais da aplicação durante seu desenvolvimento.
 
 ### 🖥️ Dashboard — Computadores
 
-<img src="./assets/internet-cafe/01-dashboard-computadores.png" width="100%" alt="Dashboard com computadores disponíveis">
+<img src="./cibercafé/internet-cafe/01-dashboard-computadores.png" width="100%" alt="Dashboard com computadores disponíveis">
 
 ### 👥 Fila de espera
 
-<img src="./assets/internet-cafe/02-fila-de-espera.png" width="100%" alt="Fila de espera">
+<img src="./cibercafé/internet-cafe/02-fila-de-espera.png" width="100%" alt="Fila de espera">
 
 ### 🥤 Snack Bar
 
-<img src="./assets/internet-cafe/03-snack-bar.png" width="100%" alt="Módulo de Snack Bar">
+<img src="./cibercafé/internet-cafe/03-snack-bar.png" width="100%" alt="Módulo de Snack Bar">
 
 ### 💰 Financeiro
 
-<img src="./assets/internet-cafe/04-financeiro.png" width="100%" alt="Histórico financeiro">
+<img src="./cibercafé/internet-cafe/04-financeiro.png" width="100%" alt="Histórico financeiro">
 
 ### 🖥️ Novas máquinas
 
-<img src="./assets/internet-cafe/05-novas-maquinas.png" width="100%" alt="Cadastro de novas máquinas">
+<img src="./cibercafé/internet-cafe/05-novas-maquinas.png" width="100%" alt="Cadastro de novas máquinas">
 
 ### ⚙️ Configurações
 
-<img src="./assets/internet-cafe/06-configuracoes.png" width="100%" alt="Configurações da interface">
+<img src="./cibercafé/internet-cafe/06-configuracoes.png" width="100%" alt="Configurações da interface">
 
 ---
 
