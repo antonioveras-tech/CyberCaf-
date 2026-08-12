@@ -333,8 +333,6 @@ Estou buscando uma oportunidade de **Estágio ou Desenvolvedor Júnior** onde eu
 
 </div>
 
----
-
 # 📫 Vamos nos conectar?
 
 <div align="center">
