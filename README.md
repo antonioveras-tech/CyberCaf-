@@ -5,7 +5,7 @@
 
 ### 🖥️ Uma aplicação desktop desenvolvida em Python + CustomTkinter
 
-<img src="./01-dashboard-computadores.png" width="95%" alt="Dashboard do CyberCafe">
+<img src="./internet-cafe/01-dashboard-computadores.png" width="95%" alt="Dashboard do CyberCafe">
 
 </div>
 
